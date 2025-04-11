@@ -1,4 +1,4 @@
-import '../styles/interests.css'; // Importing the CSS file for styling
+import '../styles/Interests.css'; // Importing the CSS file for styling
 
 const Interests = () => {
   return (
