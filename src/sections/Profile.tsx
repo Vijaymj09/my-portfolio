@@ -4,14 +4,16 @@ const Profile = () => {
   return (
     <section className="profile-section">
       <img
-        src="/your-photo.jpg"
+        src="src/IMG_20250102_182116_154.webp" // Put the image in the public folder
         alt="Vijay M J"
         className="profile-pic"
       />
-      <h1>VIjay M J</h1>
-      <h2>Frontend Developer | React Enthusiast</h2>
+      <h1>Vijay M J</h1>
+      <h2>Full Stack Web Developer</h2>
       <p className="profile-bio">
-        Passionate about building beautiful and functional web experiences. Skilled in React, JavaScript, and UI/UX principles.
+        I'm a passionate Full Stack Web Developer with strong problem-solving skills and a keen interest in building scalable and secure web applications. My recent projects include developing a blockchain-powered forensic evidence management system and an anonymous feedback platform using the latest tech stack like Next.js, MongoDB, Tailwind CSS, and Next-Auth.
+        <br /><br />
+        I enjoy turning complex problems into clean, efficient solutions, and I'm always eager to explore new technologies — especially in the fields of Web3, security, and user experience.
       </p>
     </section>
   );
