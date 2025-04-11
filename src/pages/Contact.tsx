@@ -11,7 +11,7 @@ const Contact = () => {
 
       <div className="contact-details">
         <p><strong>Name:</strong> Vijay M J</p>
-        <p><strong>Email:</strong> <a href="mailto:vijaymj09@gmail.com">vijaymj09@gmail.com</a></p>
+        <p><strong>Email:</strong> <a href="mailto:karthimj09@gmail.com">karthimj09@gmail.com</a></p>
         <p><strong>Phone:</strong> +91 6363112431</p>
         <p><strong>Location:</strong> Tumkur, Karnataka, India</p>
         <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vijaymj09" target="_blank" rel="noopener noreferrer">linkedin.com/in/vijaymj09</a></p>

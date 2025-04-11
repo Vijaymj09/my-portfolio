@@ -1,0 +1,32 @@
+.education-section {
+  min-height: 100vh;
+  padding: 4rem 2rem;
+  background-color: #0d1b2a;
+  color: #ffffff;
+}
+
+.education-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #00ffff;
+  margin-bottom: 3rem;
+}
+
+.education-item {
+  background-color: #1a2639;
+  margin: 1.5rem auto;
+  padding: 1.5rem;
+  border-radius: 10px;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.15);
+}
+
+.education-item h2 {
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+.education-item p {
+  margin: 0.3rem 0;
+  color: #ccc;
+}
