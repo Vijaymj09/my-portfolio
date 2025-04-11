@@ -1,0 +1,43 @@
+.interests-section {
+  min-height: 100vh;
+  padding: 4rem 2rem;
+  background-color: #0d1b2a;
+  color: #ffffff;
+  text-align: center;
+}
+
+.interests-title {
+  font-size: 2.5rem;
+  color: #00ffff;
+  margin-bottom: 1.5rem;
+}
+
+.interests-intro {
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+  color: #cccccc;
+}
+
+.interests-list {
+  list-style-type: none;
+  padding: 0;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.interests-list li {
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+  position: relative;
+  color: #ddd;
+}
+
+.interests-list li::before {
+  content: "•";
+  color: #00ffff;
+  position: absolute;
+  left: 0;
+}
