@@ -1,0 +1,16 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #000; /* Keep background black if needed */
+}
+
+.content {
+  flex: 1;
+  padding: 20px; /* Optional spacing */
+}
