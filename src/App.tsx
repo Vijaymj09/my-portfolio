@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ParticlesBackground from "./components/ParticlesBackground";
 import "./App.css";
+import Profile from "./sections/Profile";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <ParticlesBackground />
       <Navbar />
       <main className="content">
-        <h1>Welcome to My Portfolio</h1>
+      <Profile />
       </main>
       <Footer />
     </div>
