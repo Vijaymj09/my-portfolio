@@ -1,13 +1,14 @@
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import ParticlesBackground from "./components/ParticlesBackground";
 
 function App() {
   return (
     <div className="app-container">
+      <ParticlesBackground />
       <Navbar />
       <main className="content">
-        {/* Replace with routed or static content */}
-        <h1 style={{ color: "white" }}>Welcome to My Portfolio</h1>
+        <h1>Welcome to My Portfolio</h1>
       </main>
       <Footer />
     </div>
