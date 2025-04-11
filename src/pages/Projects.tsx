@@ -1,4 +1,4 @@
-import '../styles/projects.css';
+import '../styles/Projects.css'; // if the path was wrong
 
 const Projects = () => {
   return (
